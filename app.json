@@ -1,5 +1,5 @@
 {
-    "name": "EvaMariaBot",
+    "name": "EvaMaria2",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/8769ANURAG/EvaMaria",
-    "repository": "https://github.com/8769ANURAG/EvaMaria",
+    "website": "https://github.com/ayushkhanduri78/Evamaria2",
+    "repository": "https://github.com/ayushkhanduri78/Evamaria2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
